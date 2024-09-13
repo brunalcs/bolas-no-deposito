@@ -6,7 +6,8 @@ Este programa em Python calcula o volume de um reservatório com base em suas di
 
 Cálculo do volume do reservatório: O programa pede ao usuário que insira as dimensões do depósito (comprimento, largura e altura) e calcula seu volume.
 
-**Seleção do tipo de bola: O programa oferece uma lista de opções de bolas, cada uma com um volume pré-definido:**
+**Seleção do tipo de bola:**
+O programa oferece uma lista de opções de bolas, cada uma com um volume pré-definido:
 - Bola de Basquete Adulto
 - Bola de Basquete Infantil
 - Bola de Futebol Oficial
@@ -16,6 +17,7 @@ Cálculo do volume do reservatório: O programa pede ao usuário que insira as d
 - Outro tamanho de bola (onde o usuário pode inserir o tamanho manualmente)
   
 **Cálculo da quantidade de bolas:**
+
 Com base no volume da bola selecionada e o volume do depósito, o programa calcula quantas bolas caberiam no reservatório.
 
 **Instruções de Uso:**
